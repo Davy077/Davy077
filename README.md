@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programação 
 - 💞️ I’m looking to collaborate on um projeto 
 - 📫 How to reach me por alguma plataforma 
-- 😄 Pronouns: Davy
+- 😄 Pronouns: ele/dele
 - ⚡ Fun fact: piadas 
 
 <!---
